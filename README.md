@@ -1,2 +1,3 @@
-# cliMAScreen
-An AI-based Multi Agent System (MAS) for climate change risk screening.
+<p align="center">
+  <img src="https://github.com/JGrassi97/cliMAScreen/blob/main/img/logo_chatgpt.png?raw=true" width="240" height="120">
+</p>
